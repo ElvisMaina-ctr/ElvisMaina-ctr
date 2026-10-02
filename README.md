@@ -27,7 +27,7 @@ I want to improve my programming skills, build useful projects, and grow as a so
 ## 🤝:How to Reach Me
 - Email: [ngangamaina02@gmail.com]
 - LinkedIn: [https://linkedIn.com/elvisnganga]
-GitHub: [@ElvisMaina-ctr](https://github.com/ElvisMaina-ctr)
+
 
 ## 📊: GitHub Stats
 
